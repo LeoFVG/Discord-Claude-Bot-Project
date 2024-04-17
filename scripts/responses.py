@@ -4,7 +4,7 @@ import os
 def submit_prompt(prompt: str) -> str:
 
     client = anthropic.Anthropic(
-        # defaults to os.environ.get("ANTHROPIC_API_KEY")
+        # Change os.environ.get("ANTHROPIC_API_KEY") to your Anthropic_api_key if api_key is not in environment variables
         api_key=os.environ.get("ANTHROPIC_API_KEY"),
     )
     
