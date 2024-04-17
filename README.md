@@ -25,13 +25,13 @@ Follow these steps to install the project on a Windows machine:
 
 1. Clone the repository:
     ```bash
-    git clone -
-    cd -
+    git clone https://github.com/LeoFVG/Discord-Claude-Bot-Project.git
+    cd Discord-Claude-Bot-Project
     ```
 2. Create and activate a conda environment:
     ```bash
-    conda create --name - python=3.12
-    conda activate -
+    conda create --name Discord-Claude-Bot-Project python=3.12
+    conda activate Discord-Claude-Bot-Project
     ```
 3. Install the required Python packages:
     ```bash
