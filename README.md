@@ -40,7 +40,7 @@ Follow these steps to install the project on a Windows machine:
     ```
 
 ## Usage
-1. Create a bot and get its invite link in the discord developer porta.
+1. Create a bot and get its invite link in the discord developer portal.
 2. Once your bot is in a server run the main.py file to activate your bot.
 3. Now your bot should be online and ready to interact with have fun!
 
