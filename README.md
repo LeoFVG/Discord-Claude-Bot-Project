@@ -18,7 +18,8 @@ This section will guide you through the prerequisites and installation process t
 
 1. This project uses Anaconda to manage virtual environments. If you haven't installed it yet, you can download it from the official Anaconda website.
 2. You will need to get an anthropic api key, you can create an account on anthropics official website and create your own api key.
-
+3. You will also need to create a discord bot token do this on the discord developer portal website.
+   
 ### Installation
 
 Follow these steps to install the project on a Windows machine:
@@ -37,13 +38,11 @@ Follow these steps to install the project on a Windows machine:
     ```bash
     pip install -r requirements.txt
     ```
-4. (Optional) Run the code once to test by pasting the the following:
-   ```bash
-   python main.py
-   ```
 
 ## Usage
-
+1. Create a bot and get its invite link in the discord developer porta.
+2. Once your bot is in a server run the main.py file to activate your bot.
+3. Now your bot should be online and ready to interact with have fun!
 
 
 ## Contributing
