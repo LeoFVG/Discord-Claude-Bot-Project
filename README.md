@@ -1,6 +1,6 @@
 # Discord-Claude-Bot-Project
 
-A discord bot powered by anthropics claude ai.
+A discord bot powered by Anthropics claude.
 
 ## Table of Contents
 
