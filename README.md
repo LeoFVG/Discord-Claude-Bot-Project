@@ -59,3 +59,7 @@ Contributions are what make the open-source community such an amazing place to l
 
 Leo Voghera - leovoghera@hotmail.com
 Project Link: https://github.com/LeoFVG/Anthropic-Email-Answering.git
+
+## License
+
+This system is available under the MIT license. See the LICENSE file for more info.
