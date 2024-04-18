@@ -55,11 +55,12 @@ Contributions are what make the open-source community such an amazing place to l
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+## License
+
+This system is available under the MIT license.
+
 ## Contact
 
 Leo Voghera - leovoghera@hotmail.com
 Project Link: https://github.com/LeoFVG/Anthropic-Email-Answering.git
 
-## License
-
-This system is available under the MIT license.
