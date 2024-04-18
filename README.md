@@ -1,6 +1,6 @@
 # Discord-Claude-Bot-Project
 
-Welcome to the Claude-Email-Answering-and-Categorizing project! This project is an attempt to create an email management bot using the Anthropic API. The bot is designed to automatically answer and categorize emails, thereby streamlining your inbox management.
+A discord bot powered by anthropics claude ai.
 
 ## Table of Contents
 
